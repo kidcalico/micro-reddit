@@ -1,24 +1,11 @@
-# README
+# The Odin Project: Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a small project completed for [The Odin Project](https://theodinproject.com).
 
-Things you may want to cover:
+Micro-Reddit is a collection of three models: **User**, **Post** and **Comment**. Each *Post*
+contains a link and a reference to a *User*, while each *Comment* contains a reference to both
+a *Post* and a *User*.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This was my first time implementing validation methods and creating associations outside of a
+tutorial setting. This was a very small project and I am looking forward to my next opportunity
+to implement larger models. Until next time!
